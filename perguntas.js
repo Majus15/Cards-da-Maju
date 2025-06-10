@@ -15,7 +15,7 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'O vaca bebe?
+    'A pergunta que não quer calar',
+    'Oque vaca bebe?
     'água'
 )
