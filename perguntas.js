@@ -1,23 +1,21 @@
 criaCartao(
     'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
-)
-
+    'qual judas traiu jesus Escariotes ou Tadeu?',
+    'Escariotes'
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Charada',
+    'Oque pesa mais 1kg de algodãoou 1kg de ferro?',
+    'Os dois pesam igual'
 )
 
 criaCartao(
     'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Qual guerra Napoleão morreu?',
+    'Na últimaque ele lutou'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    '',
+    'O vaca bebe?
+    'água'
 )
